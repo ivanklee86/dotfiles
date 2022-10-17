@@ -1,1 +1,5 @@
+# Paths
 export PATH="${HOME}/.pkenv/bin:$HOME/.tfenv/bin:$PATH"
+
+# Aliases
+alias k='kubectl'
